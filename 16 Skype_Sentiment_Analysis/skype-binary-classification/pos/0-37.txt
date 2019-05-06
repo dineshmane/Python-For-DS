@@ -1,0 +1,2 @@
+Garbage
+Garbage . Always runs on background , no option to shut down completely since it decides for you to minimise and " eat " your computer's memory , just in case someone calls you . ( truth is it simply datamines ) . Heavy app , hugh RAM/CPU consumption

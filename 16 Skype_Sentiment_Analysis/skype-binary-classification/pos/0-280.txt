@@ -1,0 +1,2 @@
+Cannot show full screen of contact
+Cannot show full screen of contact , just has a small picture . Layout is much harder to use than the previous version .

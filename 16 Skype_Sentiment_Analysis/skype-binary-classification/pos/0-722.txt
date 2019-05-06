@@ -1,0 +1,2 @@
+Making calls works great - receiving calls doesn't
+Most incoming calls never ring on the iPhone 4S , don't even notify but go straight to voicemail . Competing products like Viber work like a charm for both incoming and outgoing calls .
