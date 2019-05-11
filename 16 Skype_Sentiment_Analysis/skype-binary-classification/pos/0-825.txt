@@ -1,2 +1,0 @@
-Frequent problems with calling
-Usually I need to call twice to get a good connection - that's a pity

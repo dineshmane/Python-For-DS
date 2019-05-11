@@ -1,2 +1,0 @@
-echo in the call
-When calling on landline . The other line always hears an echo . I use headphones and I hear everything fine , but for the one I´m calling it´s very annoying .

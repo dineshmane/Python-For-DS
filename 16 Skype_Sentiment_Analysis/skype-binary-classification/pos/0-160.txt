@@ -1,2 +1,0 @@
-Skype 8 : Poor UI updates forcing people to app store
-The user interface resembles something from a drunken university midterm project and comes coupled with a way-too-regular and mandatory idiotic update mechanism which requires admin privileges ( and is an obvious ruse to force people to " Microsoft Store " ) . This piece of rubbish is , unfortunately , unusable . We are seeking alternatives to it now , well done Microsoft for being " clever " .
